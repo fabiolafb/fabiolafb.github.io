@@ -3,6 +3,9 @@
 #saludo {
     padding-left: 4rem;
 }
+#texto-p {
+ padding-right: 2rem;
+}
 #acercademi {
 
     padding: 0 0 0 0;
@@ -39,8 +42,8 @@ body {
  /* hero */
 .hero{
     text-align: center;
-    padding: 6rem 2rem 5rem 2rem;
-    margin: 0px 15px 0px 15px;
+    padding: 6rem 0rem 0rem 0rem;
+
 }
 .img-fabiola {
     width: 300px;
